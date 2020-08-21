@@ -18,7 +18,7 @@
 ---
 
 <img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark" />
-<img align="right" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api/top-langs?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark" />
+<img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api/top-langs?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark&layout=compact" />
 
 <br />
 
