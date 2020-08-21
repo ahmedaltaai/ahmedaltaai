@@ -16,7 +16,7 @@
 
 ---
 
-<img align="left" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.vercel.app/api?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark" />
+<img align="left" alt="Ahmed Altaai's GitHub stats board" src="github-readme-stats.ahmedaltaai.vercel.app?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark" />
 
 ---
 
