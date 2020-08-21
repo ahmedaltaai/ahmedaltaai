@@ -13,7 +13,7 @@
 [<img align="left" alt="ahmedaltaai.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@realAhmedAltaai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ahmed Altaai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br>
 ---
 
 <img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark" />
