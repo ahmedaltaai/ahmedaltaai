@@ -17,14 +17,14 @@
 
 ---
 
-<img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark" />
+<img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api?username=ahmedaltaai&count_private=true&show_icons=true" />
 
 <br />
 
 * NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <br />
 <br />
-<img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api/top-langs?username=ahmedaltaai&count_private=true&show_icons=true&theme=dark&layout=compact" />
+<img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api/top-langs?username=ahmedaltaai&count_private=true&show_icons=true&layout=compact" />
 
 ---
 
