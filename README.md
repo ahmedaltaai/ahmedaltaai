@@ -6,7 +6,7 @@
 ## About me
 
 - 🌱 I’m currently learning JavaScript & Vue.js
-- 🥅 2020 Goals: aquire an advanced knowledge of JavaScript & Vue.js
+- 🥅 2020 Goals: acquire an advanced knowledge of JavaScript & Vue.js
 
 ### Connect with me:
 
