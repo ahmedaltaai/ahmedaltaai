@@ -5,8 +5,9 @@
 
 ## About me
 
-- 🌱 I’m currently learning JavaScript & Vue.js
-- 🥅 2020 Goals: acquire an advanced knowledge of JavaScript & Vue.js
+- 🌱 I’m currently working TypeScript & Vue.js
+- 🥅 2021 Goals: acquire an advanced knowledge about Blockchain Technology
+- 🛹 Technologies which I want to play with: Flutter, Python & NFT
 
 ### Connect with me:
 
