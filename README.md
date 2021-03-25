@@ -5,8 +5,8 @@
 
 ## About me
 
-- 🌱 I’m currently working TypeScript & Vue.js
-- 🥅 2021 Goals: acquire an advanced knowledge about Blockchain Technology
+- 🌱 I’m currently working with TypeScript & Vue.js
+- 🥅 2021 Goals: acquire an advanced knowledge about Blockchain Technology & Microservices
 - 🛹 Technologies which I want to play with: Flutter, Python & NFT
 
 ### Connect with me:
@@ -22,7 +22,7 @@
 
 <br />
 
-* NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+* NOTE: "Most Used Languages" does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <br />
 <br />
 <img align="center" alt="Ahmed Altaai's GitHub stats board" src="https://github-readme-stats.ahmedaltaai.vercel.app/api/top-langs?username=ahmedaltaai&count_private=true&show_icons=true&layout=compact" />
@@ -55,7 +55,6 @@
 <code>
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </code>
-<br />
 
 <!--
 **ahmedaltaai/ahmedaltaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,6 +70,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[website]: https://ahmedaltaai.com
+[website]: https://ahmedaltaai.com/
 [twitter]: https://twitter.com/realAhmedAltaai
 [linkedin]: https://www.linkedin.com/in/ahmed-altaai-109857196/
