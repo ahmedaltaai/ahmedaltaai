@@ -26,7 +26,7 @@
   - Formation of Habits
   - Neurobiology
   
-- 🥅 2021 Goals: 
+- 🥅 Goals: 
   - [X] Build a project with VueJs
   - [X] Build a project with NuxtJs
   - [ ] Build a project with Svelte
