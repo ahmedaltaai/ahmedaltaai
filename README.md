@@ -13,28 +13,11 @@
   - python/django
   - c#
   - pine script
-  
-- 🌱 I liked: 
-  -  vueJs
-  -  typescript
-  -  nodeJs/expressJs
-  -  django/python
 
 - 🛹 I'm lerning:
   - Algorithms & Data Structure
-  - Cryptocurrency trading
   - Formation of Habits
   - Neurobiology
-  
-- 🥅 Goals: 
-  - [X] Build a project with VueJs
-  - [X] Build a project with NuxtJs
-  - [ ] Build a project with Svelte
-  - [ ] Build a project with Sveltekit
-  - [ ] Build a project with Flutter
-  - [ ] Build a project with Swift
-  - [ ] Build a project with Deno
-  - [ ] Deploy a fullstack project to AWS
  
 
 ### Connect with me:
