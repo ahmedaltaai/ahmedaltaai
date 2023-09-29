@@ -1,23 +1,12 @@
 ### Hi there, I'm Ahmed 👋
 
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&label=ahmedaltaai.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fahmedaltaai.com)
+<!-- ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&label=ahmedaltaai.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fahmedaltaai.com) -->
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&label=mbrlla.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fmbrlla.com)
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=follow%20me%20%40realahmedaltaai&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FrealAhmedAltaai)
 
 ## About me
 
-- 🏓 I played with:
-  - nodeJs/expressJs
-  - vueJs
-  - typescript
-  - java/spring boot
-  - python/django
-  - c#
-  - pine script
-
-- 🛹 I'm lerning:
-  - Algorithms & Data Structure
-  - Formation of Habits
-  - Neurobiology
+I'm creating a Brand aggregation system.
  
 
 ### Connect with me:
