@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm creating a Brand aggregation system.
+I'm creating a brand aggregation system.
  
 
 ### Connect with me:
@@ -14,7 +14,7 @@ I'm creating a Brand aggregation system.
 [<img alt="Twitter | @realAhmedAltaai" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 <br />
 
----
+<!--
 
 ### Languages and Tools:
 
@@ -46,7 +46,7 @@ I'm creating a Brand aggregation system.
   
 </p>
 
-<!--
+
 **ahmedaltaai/ahmedaltaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
